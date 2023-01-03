@@ -7,7 +7,7 @@ Here is my [tryhackme](https://tryhackme.com) progression (ranking).
 ## Roadmap:
 
 * [x] [Pre Security](https://tryhackme.com/path-action/presecurity/join) ([CERTIFICATE](./certificates/THM-YSSTYORVNA.png))
-* [ ] [Introduction to Cyber Security](https://tryhackme.com/path-action/introtocyber/join) (45%)
+* [ ] [Introduction to Cyber Security](https://tryhackme.com/path-action/introtocyber/join) (55%)
 * [x] [Complete Beginner](https://tryhackme.com/path-action/beginner/join) ([CERTIFICATE](./certificates/THM-0HSNYYSSNP.png))
 * [ ] [Jr Penetration Tester](https://tryhackme.com/path-action/jrpenetrationtester/join) (91%)
 * [ ] [Offensive Pentesting](https://tryhackme.com/path-action/pentesting/join) (49%)
