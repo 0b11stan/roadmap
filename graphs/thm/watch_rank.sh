@@ -1,4 +1,4 @@
-USERNAMES="0b11stan Ad4m5 AlbertLingot P0wned"
+USERNAMES="0b11stan Ad4m5 AlbertLingot HELLISIUM"
 
 fetchrank() {
   USERNAME=$1

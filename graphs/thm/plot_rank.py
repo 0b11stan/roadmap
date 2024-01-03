@@ -1,6 +1,7 @@
-from datetime import datetime as dt
-import matplotlib.pyplot as plt
 import os
+import matplotlib.pyplot as plt
+from datetime import datetime as dt
+# _todo: try [this](https: // plotly.com/javascript/time-series /) _
 
 
 def read_data(username):
